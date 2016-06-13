@@ -70,7 +70,7 @@ body {
   overflow: hidden;
 }
 
-.divider--hero {
+.div-hero {
   border-bottom-color: #00a5bb;
 }
 
@@ -127,14 +127,14 @@ body {
   margin: 0 1rem;
 }
 
-.figure {
+figure {
   text-align: center;
   background: rgba(120,120,120, 0.2);
   padding: 1rem;
   border-radius: 0.5rem;
 }
 
-.figure span {
+figure span {
   color: #00a5bb;
 }
 
@@ -146,6 +146,6 @@ body {
   text-shadow: 1px 1px 2px #2a2a2a;
 }
 
-.figcaption {
+figcaption {
   margin-top: 2rem;
 }
