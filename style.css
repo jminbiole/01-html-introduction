@@ -44,7 +44,7 @@ body {
   height: 100vh;
   text-align: center;
 
-  background: url('http://www.developerdev.com/images/placeholders/1920x1200-3.jpg') no-repeat center center fixed;
+  background: url('https://www.residentadvisor.net/images/events/flyer/2013/4/uk-0420-463257-front.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -81,21 +81,21 @@ body {
 
 .bg-pop {
   padding: 1rem 2rem;
-  background: #00525d;
-  color: #f1f1f1;
+  background: #01125d;
+  color: #008311;
 }
 
 .divider {
   border-width: 0;
   border-bottom-width: 0.5rem;
   border-bottom-style: solid;
-  border-bottom-color: #00a5bb;
+  border-bottom-color: #01125d;
   width: 10rem;
   margin: auto;
 }
 
 #bg-photo {
-  background: url('http://i.imgur.com/PNpGUvq.jpg?1') no-repeat center center;
+  background: url('http://dimamp.com/wp-content/gallery/nature-underwater/183-underwater-towers-background.jpg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -119,7 +119,7 @@ body {
 
 .bg-standard {
   padding: 1rem 2rem;
-  color: #2f2f2f;
+  color: #1e41ac;
 }
 
 .row__column {
